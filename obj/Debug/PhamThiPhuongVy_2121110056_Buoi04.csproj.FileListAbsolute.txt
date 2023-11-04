@@ -1,0 +1,10 @@
+D:\PhamThiPhuongVy_2121110056_Buoi04\bin\Debug\PhamThiPhuongVy_2121110056_Buoi04.exe.config
+D:\PhamThiPhuongVy_2121110056_Buoi04\bin\Debug\PhamThiPhuongVy_2121110056_Buoi04.exe
+D:\PhamThiPhuongVy_2121110056_Buoi04\bin\Debug\PhamThiPhuongVy_2121110056_Buoi04.pdb
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.csproj.AssemblyReference.cache
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.Form1.resources
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.Properties.Resources.resources
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.csproj.GenerateResource.cache
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.csproj.CoreCompileInputs.cache
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.exe
+D:\PhamThiPhuongVy_2121110056_Buoi04\obj\Debug\PhamThiPhuongVy_2121110056_Buoi04.pdb
